@@ -35,11 +35,11 @@ yarn run start
 
 ## Todo list:
 
-This is my 4-5 hours work. Sorry, I finished 90% functionalities, but for showing a dashed line and number tracking functionality has no time to do ..
+This is my 4-5 hours work. Sorry, I have finished 90% functionalities, but about the showing a dashed line for number tracking functionality has no time to do ..
 
 
 ## End
 
-This is a great simple task to do and thank you for try 😃
+Thank you for trying 😃
 
 Cheers ~
